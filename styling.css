@@ -1,0 +1,30 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 { 
+    color: white;
+    background-color: black; 
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+#CloudTitle {
+    color: lightblue;
+}
+
+h2 {
+    color: white;
+    background-color: purple;
+    font-style: italic;
+    text-align: center;
+    
+}
+
+h3 {
+    color: darkblue;
+    background-color: lightblue;
+    text-decoration: underline;
+    text-align: right;
+}
